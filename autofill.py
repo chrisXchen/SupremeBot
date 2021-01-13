@@ -35,7 +35,7 @@ class Autofill:
         ).click()
 
     '''
-    I strongly believe this will be a slowey version of the BoxFill method but feel free to try
+    I strongly believe this will be a slower version of the BoxFill method but feel free to try
 
     def BoxFill(self, box_type):
         WebDriverWait(self.driver, 20).until(
